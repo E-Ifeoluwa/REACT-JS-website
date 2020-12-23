@@ -15,6 +15,7 @@ export const SideContainer = styled.div`
     justify-content:center;
     background: #fdc500;
     color:#000;
+    transition:0.5s ease-in-out;
 
     @media screen and (max-width: 400px){
         width: 100vw;
